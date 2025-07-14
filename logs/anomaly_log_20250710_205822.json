@@ -1,0 +1,4002 @@
+[
+    {
+        "row": 8,
+        "reconstruction_error": 3.3731585910503425
+    },
+    {
+        "row": 14,
+        "reconstruction_error": 1.410443493382849
+    },
+    {
+        "row": 40,
+        "reconstruction_error": 1.60711560668815
+    },
+    {
+        "row": 66,
+        "reconstruction_error": 2.6278069570058364
+    },
+    {
+        "row": 72,
+        "reconstruction_error": 0.9397955581828626
+    },
+    {
+        "row": 110,
+        "reconstruction_error": 1.28467192197385
+    },
+    {
+        "row": 137,
+        "reconstruction_error": 97.18099120667476
+    },
+    {
+        "row": 147,
+        "reconstruction_error": 10.32047671804513
+    },
+    {
+        "row": 149,
+        "reconstruction_error": 3.0021429194845823
+    },
+    {
+        "row": 158,
+        "reconstruction_error": 8.643659207575878
+    },
+    {
+        "row": 160,
+        "reconstruction_error": 1.5330373140180278
+    },
+    {
+        "row": 166,
+        "reconstruction_error": 1.0818978332216593
+    },
+    {
+        "row": 167,
+        "reconstruction_error": 1.1051763674445974
+    },
+    {
+        "row": 169,
+        "reconstruction_error": 1.050553259062675
+    },
+    {
+        "row": 177,
+        "reconstruction_error": 0.9050928429842077
+    },
+    {
+        "row": 186,
+        "reconstruction_error": 5.60046286046277
+    },
+    {
+        "row": 188,
+        "reconstruction_error": 1.1462010498810218
+    },
+    {
+        "row": 196,
+        "reconstruction_error": 0.8955591537496744
+    },
+    {
+        "row": 204,
+        "reconstruction_error": 43.04900527662744
+    },
+    {
+        "row": 216,
+        "reconstruction_error": 2.2517972313409156
+    },
+    {
+        "row": 225,
+        "reconstruction_error": 1.3339352593188378
+    },
+    {
+        "row": 242,
+        "reconstruction_error": 0.9985637439719148
+    },
+    {
+        "row": 248,
+        "reconstruction_error": 3.2620538715993637
+    },
+    {
+        "row": 266,
+        "reconstruction_error": 0.8986613043422319
+    },
+    {
+        "row": 282,
+        "reconstruction_error": 16.025019048282363
+    },
+    {
+        "row": 283,
+        "reconstruction_error": 1.0632640469242494
+    },
+    {
+        "row": 296,
+        "reconstruction_error": 1.1994886626881733
+    },
+    {
+        "row": 300,
+        "reconstruction_error": 1.9359096557280966
+    },
+    {
+        "row": 313,
+        "reconstruction_error": 1.9851928136125716
+    },
+    {
+        "row": 323,
+        "reconstruction_error": 1.3518306412977015
+    },
+    {
+        "row": 326,
+        "reconstruction_error": 1.0566897371084474
+    },
+    {
+        "row": 331,
+        "reconstruction_error": 0.8728311267215138
+    },
+    {
+        "row": 345,
+        "reconstruction_error": 1.3734241278181603
+    },
+    {
+        "row": 354,
+        "reconstruction_error": 10.951447885418998
+    },
+    {
+        "row": 358,
+        "reconstruction_error": 0.8921609192524371
+    },
+    {
+        "row": 362,
+        "reconstruction_error": 1.948014627036865
+    },
+    {
+        "row": 380,
+        "reconstruction_error": 1.0589611344244472
+    },
+    {
+        "row": 394,
+        "reconstruction_error": 1.2026964777907594
+    },
+    {
+        "row": 415,
+        "reconstruction_error": 1.1219668369207927
+    },
+    {
+        "row": 429,
+        "reconstruction_error": 0.9521603064694039
+    },
+    {
+        "row": 446,
+        "reconstruction_error": 0.862916502138398
+    },
+    {
+        "row": 453,
+        "reconstruction_error": 1.6401448345486924
+    },
+    {
+        "row": 458,
+        "reconstruction_error": 8.389795896760791
+    },
+    {
+        "row": 466,
+        "reconstruction_error": 7.897353153936819
+    },
+    {
+        "row": 485,
+        "reconstruction_error": 0.9440005969484638
+    },
+    {
+        "row": 493,
+        "reconstruction_error": 1.4533558674207419
+    },
+    {
+        "row": 511,
+        "reconstruction_error": 74.79406800075512
+    },
+    {
+        "row": 512,
+        "reconstruction_error": 0.8519413539898758
+    },
+    {
+        "row": 523,
+        "reconstruction_error": 19.63379475052469
+    },
+    {
+        "row": 542,
+        "reconstruction_error": 1.067942576943272
+    },
+    {
+        "row": 544,
+        "reconstruction_error": 1.092230143116616
+    },
+    {
+        "row": 560,
+        "reconstruction_error": 1.4254119001961034
+    },
+    {
+        "row": 563,
+        "reconstruction_error": 0.9654220185466581
+    },
+    {
+        "row": 606,
+        "reconstruction_error": 4.773384478976829
+    },
+    {
+        "row": 628,
+        "reconstruction_error": 0.9753479393458755
+    },
+    {
+        "row": 632,
+        "reconstruction_error": 0.9253714789871853
+    },
+    {
+        "row": 641,
+        "reconstruction_error": 1.2536961188664908
+    },
+    {
+        "row": 662,
+        "reconstruction_error": 1.0377549501752654
+    },
+    {
+        "row": 678,
+        "reconstruction_error": 1.119876616210225
+    },
+    {
+        "row": 681,
+        "reconstruction_error": 1.3997167456440127
+    },
+    {
+        "row": 686,
+        "reconstruction_error": 1.4304289782213915
+    },
+    {
+        "row": 687,
+        "reconstruction_error": 0.8936007240960488
+    },
+    {
+        "row": 699,
+        "reconstruction_error": 0.8576239583638436
+    },
+    {
+        "row": 704,
+        "reconstruction_error": 1.0176228884285552
+    },
+    {
+        "row": 723,
+        "reconstruction_error": 1.831289016642976
+    },
+    {
+        "row": 732,
+        "reconstruction_error": 1.2077318516921929
+    },
+    {
+        "row": 769,
+        "reconstruction_error": 0.9466658407345363
+    },
+    {
+        "row": 779,
+        "reconstruction_error": 4.885062667250621
+    },
+    {
+        "row": 792,
+        "reconstruction_error": 0.9770908320218975
+    },
+    {
+        "row": 810,
+        "reconstruction_error": 0.9419577631124352
+    },
+    {
+        "row": 824,
+        "reconstruction_error": 0.9831604523591202
+    },
+    {
+        "row": 858,
+        "reconstruction_error": 1.3489125676586569
+    },
+    {
+        "row": 875,
+        "reconstruction_error": 53.228825611888986
+    },
+    {
+        "row": 887,
+        "reconstruction_error": 1.9145868376540092
+    },
+    {
+        "row": 894,
+        "reconstruction_error": 0.9641253328485011
+    },
+    {
+        "row": 906,
+        "reconstruction_error": 1.5302316985657243
+    },
+    {
+        "row": 925,
+        "reconstruction_error": 0.9733930394006822
+    },
+    {
+        "row": 934,
+        "reconstruction_error": 0.9242765597051147
+    },
+    {
+        "row": 938,
+        "reconstruction_error": 1.2601582142808576
+    },
+    {
+        "row": 942,
+        "reconstruction_error": 0.9255736910393639
+    },
+    {
+        "row": 985,
+        "reconstruction_error": 9.617920670091445
+    },
+    {
+        "row": 995,
+        "reconstruction_error": 1.3146129838977492
+    },
+    {
+        "row": 1001,
+        "reconstruction_error": 1.3207770392421507
+    },
+    {
+        "row": 1002,
+        "reconstruction_error": 15.761764972740048
+    },
+    {
+        "row": 1003,
+        "reconstruction_error": 13.209013758629885
+    },
+    {
+        "row": 1020,
+        "reconstruction_error": 17.68114534307294
+    },
+    {
+        "row": 1021,
+        "reconstruction_error": 1.0698721130636133
+    },
+    {
+        "row": 1032,
+        "reconstruction_error": 16.443424852274692
+    },
+    {
+        "row": 1041,
+        "reconstruction_error": 1.8088704739022672
+    },
+    {
+        "row": 1044,
+        "reconstruction_error": 1.9918966165190206
+    },
+    {
+        "row": 1049,
+        "reconstruction_error": 1.8710600624681595
+    },
+    {
+        "row": 1071,
+        "reconstruction_error": 0.8659262607970862
+    },
+    {
+        "row": 1080,
+        "reconstruction_error": 1.0195626238581659
+    },
+    {
+        "row": 1084,
+        "reconstruction_error": 1.690692325010557
+    },
+    {
+        "row": 1088,
+        "reconstruction_error": 3.1366895825905203
+    },
+    {
+        "row": 1098,
+        "reconstruction_error": 5.906563486230059
+    },
+    {
+        "row": 1116,
+        "reconstruction_error": 1.3690415519630725
+    },
+    {
+        "row": 1132,
+        "reconstruction_error": 0.9205962090943334
+    },
+    {
+        "row": 1137,
+        "reconstruction_error": 1.172287303983301
+    },
+    {
+        "row": 1142,
+        "reconstruction_error": 0.9294554285450018
+    },
+    {
+        "row": 1166,
+        "reconstruction_error": 1.202814596375317
+    },
+    {
+        "row": 1171,
+        "reconstruction_error": 1.7043667458032787
+    },
+    {
+        "row": 1193,
+        "reconstruction_error": 82.65801923600159
+    },
+    {
+        "row": 1194,
+        "reconstruction_error": 0.8519407778883267
+    },
+    {
+        "row": 1203,
+        "reconstruction_error": 0.9039323219359321
+    },
+    {
+        "row": 1220,
+        "reconstruction_error": 1.413705827968374
+    },
+    {
+        "row": 1222,
+        "reconstruction_error": 7.071609280000704
+    },
+    {
+        "row": 1223,
+        "reconstruction_error": 7.516413054538708
+    },
+    {
+        "row": 1237,
+        "reconstruction_error": 1.7232614581999577
+    },
+    {
+        "row": 1289,
+        "reconstruction_error": 1.079488578804471
+    },
+    {
+        "row": 1295,
+        "reconstruction_error": 1.4512597624397856
+    },
+    {
+        "row": 1296,
+        "reconstruction_error": 1.1391639035909285
+    },
+    {
+        "row": 1319,
+        "reconstruction_error": 1.0295822786583524
+    },
+    {
+        "row": 1325,
+        "reconstruction_error": 1.9591866095353216
+    },
+    {
+        "row": 1327,
+        "reconstruction_error": 2.256064317832369
+    },
+    {
+        "row": 1337,
+        "reconstruction_error": 0.9740920273228277
+    },
+    {
+        "row": 1347,
+        "reconstruction_error": 3.320182063906506
+    },
+    {
+        "row": 1351,
+        "reconstruction_error": 2.6149695180263257
+    },
+    {
+        "row": 1357,
+        "reconstruction_error": 0.8770118021854834
+    },
+    {
+        "row": 1365,
+        "reconstruction_error": 1.1288128275643627
+    },
+    {
+        "row": 1373,
+        "reconstruction_error": 1.8838818506039414
+    },
+    {
+        "row": 1399,
+        "reconstruction_error": 1.0885953476824184
+    },
+    {
+        "row": 1418,
+        "reconstruction_error": 4.311772748701864
+    },
+    {
+        "row": 1441,
+        "reconstruction_error": 1.3672911606381202
+    },
+    {
+        "row": 1445,
+        "reconstruction_error": 1.131839323666094
+    },
+    {
+        "row": 1451,
+        "reconstruction_error": 15.461874071357727
+    },
+    {
+        "row": 1466,
+        "reconstruction_error": 1.6595769884410152
+    },
+    {
+        "row": 1469,
+        "reconstruction_error": 0.943009264428564
+    },
+    {
+        "row": 1475,
+        "reconstruction_error": 1.5130538220017555
+    },
+    {
+        "row": 1487,
+        "reconstruction_error": 1.4556973629606669
+    },
+    {
+        "row": 1490,
+        "reconstruction_error": 0.9044307864056612
+    },
+    {
+        "row": 1504,
+        "reconstruction_error": 1.672572605016114
+    },
+    {
+        "row": 1509,
+        "reconstruction_error": 2.4049830370499774
+    },
+    {
+        "row": 1544,
+        "reconstruction_error": 1.4709285729923836
+    },
+    {
+        "row": 1562,
+        "reconstruction_error": 1.1210559918156464
+    },
+    {
+        "row": 1565,
+        "reconstruction_error": 1.090306434282969
+    },
+    {
+        "row": 1577,
+        "reconstruction_error": 13.759819579903315
+    },
+    {
+        "row": 1607,
+        "reconstruction_error": 1.80842746739633
+    },
+    {
+        "row": 1631,
+        "reconstruction_error": 1.2043646265354604
+    },
+    {
+        "row": 1636,
+        "reconstruction_error": 1.5125061088128569
+    },
+    {
+        "row": 1642,
+        "reconstruction_error": 10.900890354639118
+    },
+    {
+        "row": 1643,
+        "reconstruction_error": 1.1153047295535048
+    },
+    {
+        "row": 1662,
+        "reconstruction_error": 19.967586562061413
+    },
+    {
+        "row": 1693,
+        "reconstruction_error": 1.020778314639334
+    },
+    {
+        "row": 1695,
+        "reconstruction_error": 1.4557839274747322
+    },
+    {
+        "row": 1714,
+        "reconstruction_error": 8.82124324666183
+    },
+    {
+        "row": 1716,
+        "reconstruction_error": 2.8079333123214303
+    },
+    {
+        "row": 1729,
+        "reconstruction_error": 1.3697791783556303
+    },
+    {
+        "row": 1737,
+        "reconstruction_error": 2.665378374654264
+    },
+    {
+        "row": 1785,
+        "reconstruction_error": 1.3666235280017982
+    },
+    {
+        "row": 1788,
+        "reconstruction_error": 0.8849903946339371
+    },
+    {
+        "row": 1804,
+        "reconstruction_error": 15.790657600818214
+    },
+    {
+        "row": 1805,
+        "reconstruction_error": 0.8698284838075995
+    },
+    {
+        "row": 1818,
+        "reconstruction_error": 5.943326311068713
+    },
+    {
+        "row": 1831,
+        "reconstruction_error": 1.224026112253975
+    },
+    {
+        "row": 1838,
+        "reconstruction_error": 1.4920346307227639
+    },
+    {
+        "row": 1847,
+        "reconstruction_error": 0.9242017495171647
+    },
+    {
+        "row": 1851,
+        "reconstruction_error": 1.2861127022274637
+    },
+    {
+        "row": 1855,
+        "reconstruction_error": 0.937489796157718
+    },
+    {
+        "row": 1883,
+        "reconstruction_error": 0.8885850778071226
+    },
+    {
+        "row": 1891,
+        "reconstruction_error": 5.174681108860926
+    },
+    {
+        "row": 1892,
+        "reconstruction_error": 1.1804527477741809
+    },
+    {
+        "row": 1902,
+        "reconstruction_error": 0.8527930727526924
+    },
+    {
+        "row": 1913,
+        "reconstruction_error": 2.990733834096493
+    },
+    {
+        "row": 1918,
+        "reconstruction_error": 1.2722864395351001
+    },
+    {
+        "row": 1927,
+        "reconstruction_error": 9.461452925495468
+    },
+    {
+        "row": 1933,
+        "reconstruction_error": 1.49793325164599
+    },
+    {
+        "row": 1945,
+        "reconstruction_error": 2.9020571417170995
+    },
+    {
+        "row": 1946,
+        "reconstruction_error": 1.3198815021414785
+    },
+    {
+        "row": 1962,
+        "reconstruction_error": 1.2709822533299169
+    },
+    {
+        "row": 1963,
+        "reconstruction_error": 28.999163193857566
+    },
+    {
+        "row": 1976,
+        "reconstruction_error": 1.4689363297664484
+    },
+    {
+        "row": 1981,
+        "reconstruction_error": 1.4023888133887972
+    },
+    {
+        "row": 1992,
+        "reconstruction_error": 1.2217388662884392
+    },
+    {
+        "row": 1993,
+        "reconstruction_error": 1.2042210359814787
+    },
+    {
+        "row": 1997,
+        "reconstruction_error": 1.440615954139436
+    },
+    {
+        "row": 2000,
+        "reconstruction_error": 0.9904015932539331
+    },
+    {
+        "row": 2007,
+        "reconstruction_error": 1.061545462628024
+    },
+    {
+        "row": 2013,
+        "reconstruction_error": 1.6815724946257802
+    },
+    {
+        "row": 2017,
+        "reconstruction_error": 0.890939038409337
+    },
+    {
+        "row": 2030,
+        "reconstruction_error": 0.8754853014034443
+    },
+    {
+        "row": 2033,
+        "reconstruction_error": 1.1157797817609145
+    },
+    {
+        "row": 2035,
+        "reconstruction_error": 0.9901423176518495
+    },
+    {
+        "row": 2053,
+        "reconstruction_error": 0.9098489959340665
+    },
+    {
+        "row": 2056,
+        "reconstruction_error": 3.6002481616681323
+    },
+    {
+        "row": 2090,
+        "reconstruction_error": 1.4707450299601674
+    },
+    {
+        "row": 2100,
+        "reconstruction_error": 7.925495602975642
+    },
+    {
+        "row": 2108,
+        "reconstruction_error": 1.1131674274953007
+    },
+    {
+        "row": 2111,
+        "reconstruction_error": 9.616002401377191
+    },
+    {
+        "row": 2128,
+        "reconstruction_error": 1.0895536960234518
+    },
+    {
+        "row": 2129,
+        "reconstruction_error": 1.170367521473897
+    },
+    {
+        "row": 2137,
+        "reconstruction_error": 0.9076175946010292
+    },
+    {
+        "row": 2144,
+        "reconstruction_error": 0.9420527264511953
+    },
+    {
+        "row": 2145,
+        "reconstruction_error": 1.6365376694026716
+    },
+    {
+        "row": 2154,
+        "reconstruction_error": 1.1173388716639776
+    },
+    {
+        "row": 2163,
+        "reconstruction_error": 0.91779732797613
+    },
+    {
+        "row": 2164,
+        "reconstruction_error": 1.0232564250827512
+    },
+    {
+        "row": 2175,
+        "reconstruction_error": 1.8203248227712974
+    },
+    {
+        "row": 2181,
+        "reconstruction_error": 39.38572656148295
+    },
+    {
+        "row": 2187,
+        "reconstruction_error": 1.179045415071232
+    },
+    {
+        "row": 2197,
+        "reconstruction_error": 1.087302699249669
+    },
+    {
+        "row": 2203,
+        "reconstruction_error": 1.1849441693546976
+    },
+    {
+        "row": 2208,
+        "reconstruction_error": 0.898375594292233
+    },
+    {
+        "row": 2212,
+        "reconstruction_error": 0.9168565087210617
+    },
+    {
+        "row": 2218,
+        "reconstruction_error": 2.904417758415207
+    },
+    {
+        "row": 2220,
+        "reconstruction_error": 1.0398897009523012
+    },
+    {
+        "row": 2231,
+        "reconstruction_error": 1.9028507166179012
+    },
+    {
+        "row": 2248,
+        "reconstruction_error": 0.9493301014254963
+    },
+    {
+        "row": 2269,
+        "reconstruction_error": 3.2427868108156734
+    },
+    {
+        "row": 2275,
+        "reconstruction_error": 1.5200215221834605
+    },
+    {
+        "row": 2324,
+        "reconstruction_error": 0.9608846872339334
+    },
+    {
+        "row": 2337,
+        "reconstruction_error": 1.9385718931302685
+    },
+    {
+        "row": 2352,
+        "reconstruction_error": 2.1250227209097714
+    },
+    {
+        "row": 2369,
+        "reconstruction_error": 0.8527285418188896
+    },
+    {
+        "row": 2371,
+        "reconstruction_error": 3.215228779746426
+    },
+    {
+        "row": 2375,
+        "reconstruction_error": 1.5831806041961352
+    },
+    {
+        "row": 2384,
+        "reconstruction_error": 1.2186943962657657
+    },
+    {
+        "row": 2405,
+        "reconstruction_error": 0.8985218532085528
+    },
+    {
+        "row": 2426,
+        "reconstruction_error": 10.16003501015607
+    },
+    {
+        "row": 2428,
+        "reconstruction_error": 1.1607631428831657
+    },
+    {
+        "row": 2435,
+        "reconstruction_error": 1.2906204917075843
+    },
+    {
+        "row": 2443,
+        "reconstruction_error": 1.2622971724064416
+    },
+    {
+        "row": 2445,
+        "reconstruction_error": 1.5217935123933044
+    },
+    {
+        "row": 2456,
+        "reconstruction_error": 1.5703093282471905
+    },
+    {
+        "row": 2478,
+        "reconstruction_error": 1.639380976394834
+    },
+    {
+        "row": 2482,
+        "reconstruction_error": 41.063597571741724
+    },
+    {
+        "row": 2493,
+        "reconstruction_error": 4.059759696096598
+    },
+    {
+        "row": 2499,
+        "reconstruction_error": 1.3407907406973223
+    },
+    {
+        "row": 2509,
+        "reconstruction_error": 1.5723539271656835
+    },
+    {
+        "row": 2514,
+        "reconstruction_error": 18.525934272958846
+    },
+    {
+        "row": 2519,
+        "reconstruction_error": 1.2714141490267987
+    },
+    {
+        "row": 2524,
+        "reconstruction_error": 3.4150358579978426
+    },
+    {
+        "row": 2548,
+        "reconstruction_error": 0.8585112100784613
+    },
+    {
+        "row": 2566,
+        "reconstruction_error": 0.9191898847824439
+    },
+    {
+        "row": 2569,
+        "reconstruction_error": 2.2464418823031007
+    },
+    {
+        "row": 2579,
+        "reconstruction_error": 1.222716893595165
+    },
+    {
+        "row": 2582,
+        "reconstruction_error": 0.8523470139888306
+    },
+    {
+        "row": 2623,
+        "reconstruction_error": 0.9097020361259198
+    },
+    {
+        "row": 2627,
+        "reconstruction_error": 1.096813532001616
+    },
+    {
+        "row": 2640,
+        "reconstruction_error": 0.9816349697263366
+    },
+    {
+        "row": 2688,
+        "reconstruction_error": 0.997978295318397
+    },
+    {
+        "row": 2699,
+        "reconstruction_error": 1.1580274427908515
+    },
+    {
+        "row": 2701,
+        "reconstruction_error": 0.9613219789444187
+    },
+    {
+        "row": 2705,
+        "reconstruction_error": 1.0380610053972177
+    },
+    {
+        "row": 2723,
+        "reconstruction_error": 4.861068865415543
+    },
+    {
+        "row": 2730,
+        "reconstruction_error": 12.017352378668845
+    },
+    {
+        "row": 2747,
+        "reconstruction_error": 1.1666127590728637
+    },
+    {
+        "row": 2748,
+        "reconstruction_error": 1.8574485097418754
+    },
+    {
+        "row": 2762,
+        "reconstruction_error": 4.186469096710959
+    },
+    {
+        "row": 2764,
+        "reconstruction_error": 1.2155237102385024
+    },
+    {
+        "row": 2768,
+        "reconstruction_error": 5.123993330313958
+    },
+    {
+        "row": 2780,
+        "reconstruction_error": 0.9178083173016461
+    },
+    {
+        "row": 2793,
+        "reconstruction_error": 2.3318398475542486
+    },
+    {
+        "row": 2801,
+        "reconstruction_error": 0.9193611714541909
+    },
+    {
+        "row": 2807,
+        "reconstruction_error": 1.078781629715011
+    },
+    {
+        "row": 2812,
+        "reconstruction_error": 4.593051393506993
+    },
+    {
+        "row": 2821,
+        "reconstruction_error": 5.070390230645063
+    },
+    {
+        "row": 2835,
+        "reconstruction_error": 1.2981951242444367
+    },
+    {
+        "row": 2843,
+        "reconstruction_error": 20.263353682805242
+    },
+    {
+        "row": 2861,
+        "reconstruction_error": 1.2621191361468471
+    },
+    {
+        "row": 2879,
+        "reconstruction_error": 1.03563880374358
+    },
+    {
+        "row": 2901,
+        "reconstruction_error": 1.06476184007824
+    },
+    {
+        "row": 2940,
+        "reconstruction_error": 1.1812965435245169
+    },
+    {
+        "row": 2951,
+        "reconstruction_error": 1.2504247012992737
+    },
+    {
+        "row": 2966,
+        "reconstruction_error": 54.54612318076847
+    },
+    {
+        "row": 2982,
+        "reconstruction_error": 0.9451545761500966
+    },
+    {
+        "row": 2991,
+        "reconstruction_error": 0.9547902900007426
+    },
+    {
+        "row": 3017,
+        "reconstruction_error": 1.057995599200452
+    },
+    {
+        "row": 3029,
+        "reconstruction_error": 1.0016261409658762
+    },
+    {
+        "row": 3032,
+        "reconstruction_error": 0.9106467805325529
+    },
+    {
+        "row": 3052,
+        "reconstruction_error": 0.9052272783683559
+    },
+    {
+        "row": 3056,
+        "reconstruction_error": 1.1116274957284984
+    },
+    {
+        "row": 3093,
+        "reconstruction_error": 3.450504007083111
+    },
+    {
+        "row": 3096,
+        "reconstruction_error": 0.9663585502559652
+    },
+    {
+        "row": 3098,
+        "reconstruction_error": 1.3008993392487485
+    },
+    {
+        "row": 3102,
+        "reconstruction_error": 0.9073925872548283
+    },
+    {
+        "row": 3120,
+        "reconstruction_error": 0.8834910165040274
+    },
+    {
+        "row": 3123,
+        "reconstruction_error": 0.9572539647728493
+    },
+    {
+        "row": 3127,
+        "reconstruction_error": 21.304617096569864
+    },
+    {
+        "row": 3150,
+        "reconstruction_error": 2.294729083246521
+    },
+    {
+        "row": 3152,
+        "reconstruction_error": 1.3800403965979369
+    },
+    {
+        "row": 3188,
+        "reconstruction_error": 1.195479088465269
+    },
+    {
+        "row": 3197,
+        "reconstruction_error": 4.599482043699461
+    },
+    {
+        "row": 3198,
+        "reconstruction_error": 1.0785816175989926
+    },
+    {
+        "row": 3200,
+        "reconstruction_error": 1.3898703473041858
+    },
+    {
+        "row": 3202,
+        "reconstruction_error": 1.4244921644398174
+    },
+    {
+        "row": 3218,
+        "reconstruction_error": 1.9004599762743148
+    },
+    {
+        "row": 3219,
+        "reconstruction_error": 1.1887767060800394
+    },
+    {
+        "row": 3229,
+        "reconstruction_error": 8.473944292570646
+    },
+    {
+        "row": 3231,
+        "reconstruction_error": 1.7450840279954223
+    },
+    {
+        "row": 3251,
+        "reconstruction_error": 1.4859756708018743
+    },
+    {
+        "row": 3266,
+        "reconstruction_error": 1.2720650667735107
+    },
+    {
+        "row": 3274,
+        "reconstruction_error": 3.2357683270949305
+    },
+    {
+        "row": 3275,
+        "reconstruction_error": 1.0444051220342467
+    },
+    {
+        "row": 3277,
+        "reconstruction_error": 1.4855145040087963
+    },
+    {
+        "row": 3300,
+        "reconstruction_error": 1.8164108313438272
+    },
+    {
+        "row": 3311,
+        "reconstruction_error": 0.9522647102799645
+    },
+    {
+        "row": 3316,
+        "reconstruction_error": 1.3236667826745596
+    },
+    {
+        "row": 3319,
+        "reconstruction_error": 1.1487488743646297
+    },
+    {
+        "row": 3324,
+        "reconstruction_error": 1.5492850086758543
+    },
+    {
+        "row": 3333,
+        "reconstruction_error": 0.9238684609910641
+    },
+    {
+        "row": 3341,
+        "reconstruction_error": 1.2005604445144877
+    },
+    {
+        "row": 3367,
+        "reconstruction_error": 1.0940238044685051
+    },
+    {
+        "row": 3371,
+        "reconstruction_error": 1.1202420952010066
+    },
+    {
+        "row": 3372,
+        "reconstruction_error": 0.9153863057807343
+    },
+    {
+        "row": 3381,
+        "reconstruction_error": 0.9996271255440938
+    },
+    {
+        "row": 3385,
+        "reconstruction_error": 1.421989409161348
+    },
+    {
+        "row": 3386,
+        "reconstruction_error": 8.437600174804604
+    },
+    {
+        "row": 3390,
+        "reconstruction_error": 1.091376224083396
+    },
+    {
+        "row": 3391,
+        "reconstruction_error": 1.0095758687544352
+    },
+    {
+        "row": 3409,
+        "reconstruction_error": 2.13428369667518
+    },
+    {
+        "row": 3418,
+        "reconstruction_error": 1.4634712258129154
+    },
+    {
+        "row": 3437,
+        "reconstruction_error": 1.0141674467045831
+    },
+    {
+        "row": 3445,
+        "reconstruction_error": 1.1298654153734349
+    },
+    {
+        "row": 3473,
+        "reconstruction_error": 1.2984081426820084
+    },
+    {
+        "row": 3493,
+        "reconstruction_error": 16.054202901002398
+    },
+    {
+        "row": 3502,
+        "reconstruction_error": 1.1359322679308543
+    },
+    {
+        "row": 3506,
+        "reconstruction_error": 1.110480349444333
+    },
+    {
+        "row": 3518,
+        "reconstruction_error": 16.388228581983068
+    },
+    {
+        "row": 3519,
+        "reconstruction_error": 0.9177896571422589
+    },
+    {
+        "row": 3520,
+        "reconstruction_error": 1.606993297976983
+    },
+    {
+        "row": 3525,
+        "reconstruction_error": 1.044263503757664
+    },
+    {
+        "row": 3536,
+        "reconstruction_error": 0.9502385063698816
+    },
+    {
+        "row": 3545,
+        "reconstruction_error": 2.338052951229105
+    },
+    {
+        "row": 3555,
+        "reconstruction_error": 7.698611445004016
+    },
+    {
+        "row": 3560,
+        "reconstruction_error": 1.5436894135847645
+    },
+    {
+        "row": 3584,
+        "reconstruction_error": 1.0118578489694765
+    },
+    {
+        "row": 3595,
+        "reconstruction_error": 2.7238331886179186
+    },
+    {
+        "row": 3612,
+        "reconstruction_error": 94.96850937386361
+    },
+    {
+        "row": 3613,
+        "reconstruction_error": 6.882429157139774
+    },
+    {
+        "row": 3628,
+        "reconstruction_error": 1.0650611006069297
+    },
+    {
+        "row": 3634,
+        "reconstruction_error": 0.9539885278956516
+    },
+    {
+        "row": 3639,
+        "reconstruction_error": 0.8901357413072685
+    },
+    {
+        "row": 3662,
+        "reconstruction_error": 18.648718647071906
+    },
+    {
+        "row": 3664,
+        "reconstruction_error": 1.6804774854613094
+    },
+    {
+        "row": 3670,
+        "reconstruction_error": 1.1004424711500542
+    },
+    {
+        "row": 3678,
+        "reconstruction_error": 0.8634339612568156
+    },
+    {
+        "row": 3679,
+        "reconstruction_error": 1.1779571673363198
+    },
+    {
+        "row": 3682,
+        "reconstruction_error": 1.0132940461592184
+    },
+    {
+        "row": 3686,
+        "reconstruction_error": 3.112731645966727
+    },
+    {
+        "row": 3687,
+        "reconstruction_error": 1.3802398053067355
+    },
+    {
+        "row": 3691,
+        "reconstruction_error": 1.1138904787116823
+    },
+    {
+        "row": 3695,
+        "reconstruction_error": 1.4208231601415031
+    },
+    {
+        "row": 3708,
+        "reconstruction_error": 3.192244865863391
+    },
+    {
+        "row": 3722,
+        "reconstruction_error": 1.9049261990458115
+    },
+    {
+        "row": 3759,
+        "reconstruction_error": 1.3314620176906868
+    },
+    {
+        "row": 3762,
+        "reconstruction_error": 0.8582186105430458
+    },
+    {
+        "row": 3771,
+        "reconstruction_error": 1.3290849228982018
+    },
+    {
+        "row": 3772,
+        "reconstruction_error": 16.05052661640394
+    },
+    {
+        "row": 3797,
+        "reconstruction_error": 1.0218038013427315
+    },
+    {
+        "row": 3811,
+        "reconstruction_error": 1.9096061598307876
+    },
+    {
+        "row": 3822,
+        "reconstruction_error": 1.016928832865066
+    },
+    {
+        "row": 3823,
+        "reconstruction_error": 1.4330914033269484
+    },
+    {
+        "row": 3829,
+        "reconstruction_error": 6.199988676924556
+    },
+    {
+        "row": 3832,
+        "reconstruction_error": 1.950888827171103
+    },
+    {
+        "row": 3843,
+        "reconstruction_error": 1.4582069136290992
+    },
+    {
+        "row": 3849,
+        "reconstruction_error": 4.661037172869684
+    },
+    {
+        "row": 3850,
+        "reconstruction_error": 9.378427098953635
+    },
+    {
+        "row": 3872,
+        "reconstruction_error": 1.312334130806173
+    },
+    {
+        "row": 3903,
+        "reconstruction_error": 0.9041166372133741
+    },
+    {
+        "row": 3907,
+        "reconstruction_error": 2.160957702199256
+    },
+    {
+        "row": 3929,
+        "reconstruction_error": 1.3395803043369219
+    },
+    {
+        "row": 3934,
+        "reconstruction_error": 0.989319277582469
+    },
+    {
+        "row": 3936,
+        "reconstruction_error": 0.8914286447475198
+    },
+    {
+        "row": 3937,
+        "reconstruction_error": 2.7015585565475533
+    },
+    {
+        "row": 3949,
+        "reconstruction_error": 1.89154808604917
+    },
+    {
+        "row": 3956,
+        "reconstruction_error": 1.1028353722695654
+    },
+    {
+        "row": 3980,
+        "reconstruction_error": 1.2098744727852404
+    },
+    {
+        "row": 3989,
+        "reconstruction_error": 0.9323377148471163
+    },
+    {
+        "row": 4006,
+        "reconstruction_error": 1.0742921798380927
+    },
+    {
+        "row": 4007,
+        "reconstruction_error": 1.4475874911192952
+    },
+    {
+        "row": 4012,
+        "reconstruction_error": 1.0058104462610364
+    },
+    {
+        "row": 4018,
+        "reconstruction_error": 1.3715487148894938
+    },
+    {
+        "row": 4032,
+        "reconstruction_error": 0.9548594306336738
+    },
+    {
+        "row": 4033,
+        "reconstruction_error": 3.381052233158454
+    },
+    {
+        "row": 4055,
+        "reconstruction_error": 1.1929224966475362
+    },
+    {
+        "row": 4057,
+        "reconstruction_error": 1.1248658060680958
+    },
+    {
+        "row": 4063,
+        "reconstruction_error": 2.2300778970269732
+    },
+    {
+        "row": 4081,
+        "reconstruction_error": 0.8811090495539802
+    },
+    {
+        "row": 4095,
+        "reconstruction_error": 1.306538797799323
+    },
+    {
+        "row": 4112,
+        "reconstruction_error": 1.5760556632523626
+    },
+    {
+        "row": 4127,
+        "reconstruction_error": 2.974098291261295
+    },
+    {
+        "row": 4139,
+        "reconstruction_error": 12.99080884359794
+    },
+    {
+        "row": 4170,
+        "reconstruction_error": 0.9904301105273194
+    },
+    {
+        "row": 4171,
+        "reconstruction_error": 1.1095305471335843
+    },
+    {
+        "row": 4208,
+        "reconstruction_error": 8.019388995086793
+    },
+    {
+        "row": 4221,
+        "reconstruction_error": 1.0675225524418956
+    },
+    {
+        "row": 4230,
+        "reconstruction_error": 0.9978042592803036
+    },
+    {
+        "row": 4232,
+        "reconstruction_error": 1.283107161622539
+    },
+    {
+        "row": 4233,
+        "reconstruction_error": 1.3389614487468995
+    },
+    {
+        "row": 4238,
+        "reconstruction_error": 1.2639593199191392
+    },
+    {
+        "row": 4276,
+        "reconstruction_error": 0.9586732399588285
+    },
+    {
+        "row": 4314,
+        "reconstruction_error": 97.45590202812177
+    },
+    {
+        "row": 4315,
+        "reconstruction_error": 1.2420120986551888
+    },
+    {
+        "row": 4332,
+        "reconstruction_error": 0.9923420965945916
+    },
+    {
+        "row": 4362,
+        "reconstruction_error": 6.668656980449396
+    },
+    {
+        "row": 4383,
+        "reconstruction_error": 0.884857588525218
+    },
+    {
+        "row": 4384,
+        "reconstruction_error": 2.4918027386602994
+    },
+    {
+        "row": 4459,
+        "reconstruction_error": 0.8923683910706722
+    },
+    {
+        "row": 4469,
+        "reconstruction_error": 0.8613949629374376
+    },
+    {
+        "row": 4479,
+        "reconstruction_error": 2.3250267140693497
+    },
+    {
+        "row": 4480,
+        "reconstruction_error": 0.8683052865023079
+    },
+    {
+        "row": 4481,
+        "reconstruction_error": 6.929924877274198
+    },
+    {
+        "row": 4484,
+        "reconstruction_error": 1.390122431840234
+    },
+    {
+        "row": 4485,
+        "reconstruction_error": 1.3245310874504435
+    },
+    {
+        "row": 4521,
+        "reconstruction_error": 1.0066173447725293
+    },
+    {
+        "row": 4530,
+        "reconstruction_error": 1.2274650896944768
+    },
+    {
+        "row": 4536,
+        "reconstruction_error": 0.9367903413291013
+    },
+    {
+        "row": 4545,
+        "reconstruction_error": 1.3087425089843645
+    },
+    {
+        "row": 4556,
+        "reconstruction_error": 0.9103758824834884
+    },
+    {
+        "row": 4562,
+        "reconstruction_error": 1.3388730797478408
+    },
+    {
+        "row": 4589,
+        "reconstruction_error": 1.4964754715112014
+    },
+    {
+        "row": 4599,
+        "reconstruction_error": 1.0585692586679758
+    },
+    {
+        "row": 4605,
+        "reconstruction_error": 10.210693654662457
+    },
+    {
+        "row": 4632,
+        "reconstruction_error": 0.9955870356740909
+    },
+    {
+        "row": 4646,
+        "reconstruction_error": 1.2450052782331034
+    },
+    {
+        "row": 4669,
+        "reconstruction_error": 1.37542762795393
+    },
+    {
+        "row": 4676,
+        "reconstruction_error": 0.999803629612807
+    },
+    {
+        "row": 4682,
+        "reconstruction_error": 2.7639629899789906
+    },
+    {
+        "row": 4686,
+        "reconstruction_error": 0.8729601756144838
+    },
+    {
+        "row": 4690,
+        "reconstruction_error": 5.097976214892559
+    },
+    {
+        "row": 4699,
+        "reconstruction_error": 3.108817738944313
+    },
+    {
+        "row": 4732,
+        "reconstruction_error": 1.4339816482171595
+    },
+    {
+        "row": 4735,
+        "reconstruction_error": 0.8737913947572374
+    },
+    {
+        "row": 4754,
+        "reconstruction_error": 1.6750448502336803
+    },
+    {
+        "row": 4757,
+        "reconstruction_error": 5.674817179238088
+    },
+    {
+        "row": 4761,
+        "reconstruction_error": 1.14267006602665
+    },
+    {
+        "row": 4768,
+        "reconstruction_error": 1.4613381037160786
+    },
+    {
+        "row": 4770,
+        "reconstruction_error": 0.9091114256322321
+    },
+    {
+        "row": 4783,
+        "reconstruction_error": 2.1922940261260027
+    },
+    {
+        "row": 4793,
+        "reconstruction_error": 0.8520496696494039
+    },
+    {
+        "row": 4803,
+        "reconstruction_error": 0.9296888236616548
+    },
+    {
+        "row": 4805,
+        "reconstruction_error": 0.9607247369990198
+    },
+    {
+        "row": 4819,
+        "reconstruction_error": 1.0087954122658895
+    },
+    {
+        "row": 4823,
+        "reconstruction_error": 0.9069410503323215
+    },
+    {
+        "row": 4826,
+        "reconstruction_error": 9.383233361123215
+    },
+    {
+        "row": 4847,
+        "reconstruction_error": 0.953307180068768
+    },
+    {
+        "row": 4857,
+        "reconstruction_error": 0.858064981621613
+    },
+    {
+        "row": 4872,
+        "reconstruction_error": 7.381669701804123
+    },
+    {
+        "row": 4879,
+        "reconstruction_error": 0.9411823301877714
+    },
+    {
+        "row": 4880,
+        "reconstruction_error": 2.750139052000159
+    },
+    {
+        "row": 4881,
+        "reconstruction_error": 19.668704038038616
+    },
+    {
+        "row": 4885,
+        "reconstruction_error": 1.5814808569277437
+    },
+    {
+        "row": 4894,
+        "reconstruction_error": 1.1388572853465546
+    },
+    {
+        "row": 4926,
+        "reconstruction_error": 1.4242909347446113
+    },
+    {
+        "row": 4944,
+        "reconstruction_error": 1.3832246513736868
+    },
+    {
+        "row": 4957,
+        "reconstruction_error": 1.8948007856660922
+    },
+    {
+        "row": 4959,
+        "reconstruction_error": 0.864667044496771
+    },
+    {
+        "row": 4983,
+        "reconstruction_error": 0.9761169414443429
+    },
+    {
+        "row": 4985,
+        "reconstruction_error": 1.2115024805025352
+    },
+    {
+        "row": 4991,
+        "reconstruction_error": 0.9871601592465545
+    },
+    {
+        "row": 4992,
+        "reconstruction_error": 0.9839775585126059
+    },
+    {
+        "row": 5008,
+        "reconstruction_error": 1.0025479566654187
+    },
+    {
+        "row": 5019,
+        "reconstruction_error": 3.881298436322567
+    },
+    {
+        "row": 5020,
+        "reconstruction_error": 1.0438770338238934
+    },
+    {
+        "row": 5032,
+        "reconstruction_error": 1.2809393399532896
+    },
+    {
+        "row": 5039,
+        "reconstruction_error": 1.0005753150320875
+    },
+    {
+        "row": 5043,
+        "reconstruction_error": 0.9144400682122377
+    },
+    {
+        "row": 5049,
+        "reconstruction_error": 3.4089274751351932
+    },
+    {
+        "row": 5082,
+        "reconstruction_error": 14.407301577423802
+    },
+    {
+        "row": 5085,
+        "reconstruction_error": 3.082558651384895
+    },
+    {
+        "row": 5086,
+        "reconstruction_error": 15.255147545884267
+    },
+    {
+        "row": 5088,
+        "reconstruction_error": 0.8688463934170648
+    },
+    {
+        "row": 5098,
+        "reconstruction_error": 0.8819426208191223
+    },
+    {
+        "row": 5101,
+        "reconstruction_error": 1.563493889631828
+    },
+    {
+        "row": 5102,
+        "reconstruction_error": 0.9551177530247663
+    },
+    {
+        "row": 5106,
+        "reconstruction_error": 1.179066936369522
+    },
+    {
+        "row": 5107,
+        "reconstruction_error": 1.0087199594286806
+    },
+    {
+        "row": 5127,
+        "reconstruction_error": 1.1458326743453584
+    },
+    {
+        "row": 5132,
+        "reconstruction_error": 2.2344371711894877
+    },
+    {
+        "row": 5135,
+        "reconstruction_error": 0.9374513418195246
+    },
+    {
+        "row": 5141,
+        "reconstruction_error": 1.2906835296634094
+    },
+    {
+        "row": 5166,
+        "reconstruction_error": 1.106875558428233
+    },
+    {
+        "row": 5181,
+        "reconstruction_error": 1.1895300301099065
+    },
+    {
+        "row": 5193,
+        "reconstruction_error": 1.1472750625821029
+    },
+    {
+        "row": 5215,
+        "reconstruction_error": 1.1946285602057019
+    },
+    {
+        "row": 5218,
+        "reconstruction_error": 2.190584207609716
+    },
+    {
+        "row": 5221,
+        "reconstruction_error": 1.0285819695762723
+    },
+    {
+        "row": 5224,
+        "reconstruction_error": 1.1155827962575284
+    },
+    {
+        "row": 5227,
+        "reconstruction_error": 1.1662334002214119
+    },
+    {
+        "row": 5233,
+        "reconstruction_error": 1.062204699228423
+    },
+    {
+        "row": 5234,
+        "reconstruction_error": 1.2009597301591504
+    },
+    {
+        "row": 5236,
+        "reconstruction_error": 1.7070645480822153
+    },
+    {
+        "row": 5241,
+        "reconstruction_error": 1.510517957669432
+    },
+    {
+        "row": 5255,
+        "reconstruction_error": 0.9266443357307015
+    },
+    {
+        "row": 5260,
+        "reconstruction_error": 1.3773482862392743
+    },
+    {
+        "row": 5276,
+        "reconstruction_error": 0.9862788094323285
+    },
+    {
+        "row": 5282,
+        "reconstruction_error": 0.8581454189505969
+    },
+    {
+        "row": 5297,
+        "reconstruction_error": 0.9849208497751211
+    },
+    {
+        "row": 5300,
+        "reconstruction_error": 0.8553769909894945
+    },
+    {
+        "row": 5313,
+        "reconstruction_error": 1.034217583898041
+    },
+    {
+        "row": 5322,
+        "reconstruction_error": 1.1389309870182394
+    },
+    {
+        "row": 5323,
+        "reconstruction_error": 0.9924638879987376
+    },
+    {
+        "row": 5342,
+        "reconstruction_error": 9.470066696368935
+    },
+    {
+        "row": 5362,
+        "reconstruction_error": 1.4229821028181167
+    },
+    {
+        "row": 5376,
+        "reconstruction_error": 2.4864474480872394
+    },
+    {
+        "row": 5378,
+        "reconstruction_error": 1.2446431267369051
+    },
+    {
+        "row": 5381,
+        "reconstruction_error": 1.6261346009192643
+    },
+    {
+        "row": 5397,
+        "reconstruction_error": 1.0806474051934771
+    },
+    {
+        "row": 5415,
+        "reconstruction_error": 1.2209399009951591
+    },
+    {
+        "row": 5417,
+        "reconstruction_error": 0.9790004518745271
+    },
+    {
+        "row": 5420,
+        "reconstruction_error": 1.8239005888153346
+    },
+    {
+        "row": 5432,
+        "reconstruction_error": 1.9854147791144614
+    },
+    {
+        "row": 5448,
+        "reconstruction_error": 2.0091360357859944
+    },
+    {
+        "row": 5466,
+        "reconstruction_error": 1.4541605088675287
+    },
+    {
+        "row": 5469,
+        "reconstruction_error": 1.3975676989782932
+    },
+    {
+        "row": 5475,
+        "reconstruction_error": 0.8796060565251644
+    },
+    {
+        "row": 5494,
+        "reconstruction_error": 0.9631064830213812
+    },
+    {
+        "row": 5517,
+        "reconstruction_error": 6.385749453231253
+    },
+    {
+        "row": 5522,
+        "reconstruction_error": 1.236245401522177
+    },
+    {
+        "row": 5533,
+        "reconstruction_error": 1.2410852996590889
+    },
+    {
+        "row": 5539,
+        "reconstruction_error": 1.733124569645395
+    },
+    {
+        "row": 5546,
+        "reconstruction_error": 0.9885349028357755
+    },
+    {
+        "row": 5550,
+        "reconstruction_error": 1.4216190494589431
+    },
+    {
+        "row": 5552,
+        "reconstruction_error": 1.1163062194731093
+    },
+    {
+        "row": 5556,
+        "reconstruction_error": 0.957800527702637
+    },
+    {
+        "row": 5570,
+        "reconstruction_error": 1.1474367903440237
+    },
+    {
+        "row": 5576,
+        "reconstruction_error": 2.9871277703409946
+    },
+    {
+        "row": 5584,
+        "reconstruction_error": 0.8792451920703932
+    },
+    {
+        "row": 5590,
+        "reconstruction_error": 1.4008466131828627
+    },
+    {
+        "row": 5594,
+        "reconstruction_error": 1.5347622171807809
+    },
+    {
+        "row": 5603,
+        "reconstruction_error": 1.0535523803753848
+    },
+    {
+        "row": 5611,
+        "reconstruction_error": 1.0405404147965038
+    },
+    {
+        "row": 5614,
+        "reconstruction_error": 2.1665273919383745
+    },
+    {
+        "row": 5623,
+        "reconstruction_error": 0.8673068953310966
+    },
+    {
+        "row": 5638,
+        "reconstruction_error": 1.129201026615101
+    },
+    {
+        "row": 5647,
+        "reconstruction_error": 1.6309109765741014
+    },
+    {
+        "row": 5653,
+        "reconstruction_error": 1.4351793367243841
+    },
+    {
+        "row": 5657,
+        "reconstruction_error": 1.055216986792343
+    },
+    {
+        "row": 5682,
+        "reconstruction_error": 1.008390253356214
+    },
+    {
+        "row": 5683,
+        "reconstruction_error": 3.2242095655035
+    },
+    {
+        "row": 5711,
+        "reconstruction_error": 0.917591746779247
+    },
+    {
+        "row": 5712,
+        "reconstruction_error": 0.9250853449370188
+    },
+    {
+        "row": 5713,
+        "reconstruction_error": 1.607020197950809
+    },
+    {
+        "row": 5720,
+        "reconstruction_error": 3.094428828435342
+    },
+    {
+        "row": 5730,
+        "reconstruction_error": 1.2066617159554682
+    },
+    {
+        "row": 5731,
+        "reconstruction_error": 0.8864325104788165
+    },
+    {
+        "row": 5732,
+        "reconstruction_error": 26.420088980810018
+    },
+    {
+        "row": 5746,
+        "reconstruction_error": 0.8967620229277956
+    },
+    {
+        "row": 5762,
+        "reconstruction_error": 1.544670607960487
+    },
+    {
+        "row": 5769,
+        "reconstruction_error": 0.9940277806872959
+    },
+    {
+        "row": 5773,
+        "reconstruction_error": 1.6656663212216798
+    },
+    {
+        "row": 5776,
+        "reconstruction_error": 0.899393210423731
+    },
+    {
+        "row": 5779,
+        "reconstruction_error": 1.734362327892783
+    },
+    {
+        "row": 5806,
+        "reconstruction_error": 1.772921604983828
+    },
+    {
+        "row": 5825,
+        "reconstruction_error": 29.129948385033664
+    },
+    {
+        "row": 5843,
+        "reconstruction_error": 0.8554762098129214
+    },
+    {
+        "row": 5858,
+        "reconstruction_error": 19.329797696428116
+    },
+    {
+        "row": 5870,
+        "reconstruction_error": 0.8793639595263564
+    },
+    {
+        "row": 5872,
+        "reconstruction_error": 2.337158781042869
+    },
+    {
+        "row": 5874,
+        "reconstruction_error": 0.955489646876062
+    },
+    {
+        "row": 5877,
+        "reconstruction_error": 1.1527882344790763
+    },
+    {
+        "row": 5882,
+        "reconstruction_error": 2.3716481622706094
+    },
+    {
+        "row": 5884,
+        "reconstruction_error": 2.2652824054176004
+    },
+    {
+        "row": 5918,
+        "reconstruction_error": 1.5436181114033163
+    },
+    {
+        "row": 5922,
+        "reconstruction_error": 1.3685580607589618
+    },
+    {
+        "row": 5931,
+        "reconstruction_error": 0.9046647344556451
+    },
+    {
+        "row": 5938,
+        "reconstruction_error": 1.1865779525040898
+    },
+    {
+        "row": 5939,
+        "reconstruction_error": 33.139562101552244
+    },
+    {
+        "row": 5943,
+        "reconstruction_error": 0.8739748402168858
+    },
+    {
+        "row": 5957,
+        "reconstruction_error": 1.7716137001170544
+    },
+    {
+        "row": 5961,
+        "reconstruction_error": 1.2253245577697993
+    },
+    {
+        "row": 5969,
+        "reconstruction_error": 1.38435700527796
+    },
+    {
+        "row": 5989,
+        "reconstruction_error": 1.9684947958420815
+    },
+    {
+        "row": 5994,
+        "reconstruction_error": 14.558502513276416
+    },
+    {
+        "row": 6015,
+        "reconstruction_error": 1.5257781207960677
+    },
+    {
+        "row": 6028,
+        "reconstruction_error": 1.7458408886102006
+    },
+    {
+        "row": 6045,
+        "reconstruction_error": 0.9164703501884073
+    },
+    {
+        "row": 6049,
+        "reconstruction_error": 1.0545960788340014
+    },
+    {
+        "row": 6059,
+        "reconstruction_error": 1.3238521228927655
+    },
+    {
+        "row": 6073,
+        "reconstruction_error": 1.0168844033886721
+    },
+    {
+        "row": 6074,
+        "reconstruction_error": 0.909934553475448
+    },
+    {
+        "row": 6104,
+        "reconstruction_error": 2.957837213763042
+    },
+    {
+        "row": 6117,
+        "reconstruction_error": 1.0922957687304
+    },
+    {
+        "row": 6122,
+        "reconstruction_error": 1.6450450840900197
+    },
+    {
+        "row": 6140,
+        "reconstruction_error": 4.3262337797679145
+    },
+    {
+        "row": 6143,
+        "reconstruction_error": 1.31336854112202
+    },
+    {
+        "row": 6164,
+        "reconstruction_error": 20.78632160233805
+    },
+    {
+        "row": 6171,
+        "reconstruction_error": 1.2520953083743085
+    },
+    {
+        "row": 6174,
+        "reconstruction_error": 2.6627476249801627
+    },
+    {
+        "row": 6191,
+        "reconstruction_error": 1.1033125321293078
+    },
+    {
+        "row": 6205,
+        "reconstruction_error": 1.8393639497401468
+    },
+    {
+        "row": 6209,
+        "reconstruction_error": 4.856484962422878
+    },
+    {
+        "row": 6211,
+        "reconstruction_error": 0.9243169967778283
+    },
+    {
+        "row": 6212,
+        "reconstruction_error": 2.168640623325547
+    },
+    {
+        "row": 6218,
+        "reconstruction_error": 1.5738598358859661
+    },
+    {
+        "row": 6221,
+        "reconstruction_error": 2.3769259405806706
+    },
+    {
+        "row": 6240,
+        "reconstruction_error": 0.8634787242939024
+    },
+    {
+        "row": 6256,
+        "reconstruction_error": 7.342257278048464
+    },
+    {
+        "row": 6260,
+        "reconstruction_error": 4.796568578335357
+    },
+    {
+        "row": 6262,
+        "reconstruction_error": 2.6397537518786947
+    },
+    {
+        "row": 6285,
+        "reconstruction_error": 1.1742939420876395
+    },
+    {
+        "row": 6301,
+        "reconstruction_error": 0.8809338596229229
+    },
+    {
+        "row": 6304,
+        "reconstruction_error": 0.864722980664096
+    },
+    {
+        "row": 6305,
+        "reconstruction_error": 1.2078358982320603
+    },
+    {
+        "row": 6311,
+        "reconstruction_error": 0.9146335412670988
+    },
+    {
+        "row": 6314,
+        "reconstruction_error": 2.6095665866650757
+    },
+    {
+        "row": 6318,
+        "reconstruction_error": 0.9578608667906319
+    },
+    {
+        "row": 6343,
+        "reconstruction_error": 3.6079780821180574
+    },
+    {
+        "row": 6376,
+        "reconstruction_error": 1.9275858308520524
+    },
+    {
+        "row": 6395,
+        "reconstruction_error": 2.686775787330762
+    },
+    {
+        "row": 6404,
+        "reconstruction_error": 1.9936785410638462
+    },
+    {
+        "row": 6406,
+        "reconstruction_error": 1.1974882622487166
+    },
+    {
+        "row": 6408,
+        "reconstruction_error": 1.1632308182864293
+    },
+    {
+        "row": 6446,
+        "reconstruction_error": 2.131045504131475
+    },
+    {
+        "row": 6449,
+        "reconstruction_error": 1.5663883508564735
+    },
+    {
+        "row": 6451,
+        "reconstruction_error": 1.2852114022519916
+    },
+    {
+        "row": 6460,
+        "reconstruction_error": 0.8743998730544781
+    },
+    {
+        "row": 6466,
+        "reconstruction_error": 2.7073422719151434
+    },
+    {
+        "row": 6472,
+        "reconstruction_error": 18.129197728856116
+    },
+    {
+        "row": 6473,
+        "reconstruction_error": 1.3782494761831656
+    },
+    {
+        "row": 6478,
+        "reconstruction_error": 29.41059397883833
+    },
+    {
+        "row": 6494,
+        "reconstruction_error": 0.9625278449128682
+    },
+    {
+        "row": 6517,
+        "reconstruction_error": 1.1297346741674512
+    },
+    {
+        "row": 6519,
+        "reconstruction_error": 1.944920160753616
+    },
+    {
+        "row": 6530,
+        "reconstruction_error": 1.4226004706022275
+    },
+    {
+        "row": 6533,
+        "reconstruction_error": 1.3582811315020717
+    },
+    {
+        "row": 6541,
+        "reconstruction_error": 1.6727211038962506
+    },
+    {
+        "row": 6547,
+        "reconstruction_error": 1.6702888073647146
+    },
+    {
+        "row": 6549,
+        "reconstruction_error": 0.9280099406242237
+    },
+    {
+        "row": 6557,
+        "reconstruction_error": 1.0619592662109971
+    },
+    {
+        "row": 6575,
+        "reconstruction_error": 9.315143878903642
+    },
+    {
+        "row": 6579,
+        "reconstruction_error": 1.1722459746705765
+    },
+    {
+        "row": 6599,
+        "reconstruction_error": 0.860677338990121
+    },
+    {
+        "row": 6614,
+        "reconstruction_error": 0.9056464210932453
+    },
+    {
+        "row": 6641,
+        "reconstruction_error": 1.0472999678130186
+    },
+    {
+        "row": 6677,
+        "reconstruction_error": 4.287459325698946
+    },
+    {
+        "row": 6700,
+        "reconstruction_error": 1.141194132643967
+    },
+    {
+        "row": 6708,
+        "reconstruction_error": 2.0372904317597142
+    },
+    {
+        "row": 6741,
+        "reconstruction_error": 1.3046045057582214
+    },
+    {
+        "row": 6743,
+        "reconstruction_error": 1.9910154858137332
+    },
+    {
+        "row": 6760,
+        "reconstruction_error": 1.7739008643011311
+    },
+    {
+        "row": 6765,
+        "reconstruction_error": 1.2581693763006425
+    },
+    {
+        "row": 6766,
+        "reconstruction_error": 1.1249731277207389
+    },
+    {
+        "row": 6768,
+        "reconstruction_error": 15.563740175520268
+    },
+    {
+        "row": 6779,
+        "reconstruction_error": 4.506354868496181
+    },
+    {
+        "row": 6781,
+        "reconstruction_error": 3.0566830330790893
+    },
+    {
+        "row": 6783,
+        "reconstruction_error": 1.4786266366873293
+    },
+    {
+        "row": 6796,
+        "reconstruction_error": 0.8712042952583956
+    },
+    {
+        "row": 6802,
+        "reconstruction_error": 0.9232686859868363
+    },
+    {
+        "row": 6803,
+        "reconstruction_error": 0.9413561769442517
+    },
+    {
+        "row": 6811,
+        "reconstruction_error": 1.4724807143471532
+    },
+    {
+        "row": 6812,
+        "reconstruction_error": 1.0160680952771661
+    },
+    {
+        "row": 6814,
+        "reconstruction_error": 1.2368196790294532
+    },
+    {
+        "row": 6817,
+        "reconstruction_error": 0.8934399868905061
+    },
+    {
+        "row": 6824,
+        "reconstruction_error": 1.079094075550258
+    },
+    {
+        "row": 6831,
+        "reconstruction_error": 22.768349905717926
+    },
+    {
+        "row": 6836,
+        "reconstruction_error": 0.9136272910959142
+    },
+    {
+        "row": 6839,
+        "reconstruction_error": 0.8545392237835895
+    },
+    {
+        "row": 6845,
+        "reconstruction_error": 0.8817984124760005
+    },
+    {
+        "row": 6859,
+        "reconstruction_error": 1.1018624518814717
+    },
+    {
+        "row": 6886,
+        "reconstruction_error": 3.4725909975110762
+    },
+    {
+        "row": 6900,
+        "reconstruction_error": 0.8517927307504647
+    },
+    {
+        "row": 6919,
+        "reconstruction_error": 1.033403752832142
+    },
+    {
+        "row": 6947,
+        "reconstruction_error": 1.2068397747302855
+    },
+    {
+        "row": 6960,
+        "reconstruction_error": 1.6137418456320374
+    },
+    {
+        "row": 6962,
+        "reconstruction_error": 2.3247993101394475
+    },
+    {
+        "row": 6963,
+        "reconstruction_error": 0.9494210869444288
+    },
+    {
+        "row": 6978,
+        "reconstruction_error": 0.9172311945222931
+    },
+    {
+        "row": 6979,
+        "reconstruction_error": 1.3596134678472007
+    },
+    {
+        "row": 6980,
+        "reconstruction_error": 3.45910850760233
+    },
+    {
+        "row": 6993,
+        "reconstruction_error": 1.0398756733554693
+    },
+    {
+        "row": 7002,
+        "reconstruction_error": 8.92636694602685
+    },
+    {
+        "row": 7008,
+        "reconstruction_error": 1.8703169090618794
+    },
+    {
+        "row": 7016,
+        "reconstruction_error": 1.111181644875861
+    },
+    {
+        "row": 7020,
+        "reconstruction_error": 0.8886868528969706
+    },
+    {
+        "row": 7023,
+        "reconstruction_error": 1.1095847020556056
+    },
+    {
+        "row": 7036,
+        "reconstruction_error": 1.3482114508147556
+    },
+    {
+        "row": 7049,
+        "reconstruction_error": 2.110364690821314
+    },
+    {
+        "row": 7057,
+        "reconstruction_error": 14.047100427050225
+    },
+    {
+        "row": 7063,
+        "reconstruction_error": 0.9627566971224343
+    },
+    {
+        "row": 7069,
+        "reconstruction_error": 1.1283526826433414
+    },
+    {
+        "row": 7077,
+        "reconstruction_error": 2.349661551953807
+    },
+    {
+        "row": 7084,
+        "reconstruction_error": 1.8998303435006114
+    },
+    {
+        "row": 7126,
+        "reconstruction_error": 0.9243758769761158
+    },
+    {
+        "row": 7136,
+        "reconstruction_error": 1.170171231815676
+    },
+    {
+        "row": 7140,
+        "reconstruction_error": 1.1006723629414878
+    },
+    {
+        "row": 7146,
+        "reconstruction_error": 1.0050487326183246
+    },
+    {
+        "row": 7159,
+        "reconstruction_error": 4.421901012078883
+    },
+    {
+        "row": 7171,
+        "reconstruction_error": 4.643756038312914
+    },
+    {
+        "row": 7186,
+        "reconstruction_error": 19.797190117987178
+    },
+    {
+        "row": 7192,
+        "reconstruction_error": 1.1867875594357553
+    },
+    {
+        "row": 7201,
+        "reconstruction_error": 1.6288385585388192
+    },
+    {
+        "row": 7213,
+        "reconstruction_error": 0.8830057310834353
+    },
+    {
+        "row": 7232,
+        "reconstruction_error": 0.9336366276947851
+    },
+    {
+        "row": 7261,
+        "reconstruction_error": 1.4665281784490742
+    },
+    {
+        "row": 7262,
+        "reconstruction_error": 1.0570404186623366
+    },
+    {
+        "row": 7265,
+        "reconstruction_error": 1.4960850473851453
+    },
+    {
+        "row": 7272,
+        "reconstruction_error": 0.9522458451089629
+    },
+    {
+        "row": 7275,
+        "reconstruction_error": 10.444464799420182
+    },
+    {
+        "row": 7277,
+        "reconstruction_error": 14.227006152888988
+    },
+    {
+        "row": 7278,
+        "reconstruction_error": 0.8626911729315613
+    },
+    {
+        "row": 7281,
+        "reconstruction_error": 1.2081888821481934
+    },
+    {
+        "row": 7291,
+        "reconstruction_error": 0.8861779748437688
+    },
+    {
+        "row": 7303,
+        "reconstruction_error": 1.8619871840007198
+    },
+    {
+        "row": 7307,
+        "reconstruction_error": 1.0387217111469595
+    },
+    {
+        "row": 7318,
+        "reconstruction_error": 1.4022613808262412
+    },
+    {
+        "row": 7319,
+        "reconstruction_error": 1.6091479471276928
+    },
+    {
+        "row": 7330,
+        "reconstruction_error": 1.4868392932853227
+    },
+    {
+        "row": 7332,
+        "reconstruction_error": 1.072686390260501
+    },
+    {
+        "row": 7361,
+        "reconstruction_error": 2.473259702772936
+    },
+    {
+        "row": 7392,
+        "reconstruction_error": 1.238875421344492
+    },
+    {
+        "row": 7395,
+        "reconstruction_error": 1.1516107291337607
+    },
+    {
+        "row": 7423,
+        "reconstruction_error": 0.852411124680096
+    },
+    {
+        "row": 7430,
+        "reconstruction_error": 1.397637065425421
+    },
+    {
+        "row": 7446,
+        "reconstruction_error": 6.706654072893724
+    },
+    {
+        "row": 7447,
+        "reconstruction_error": 1.8501661341942297
+    },
+    {
+        "row": 7448,
+        "reconstruction_error": 0.9744712492521036
+    },
+    {
+        "row": 7455,
+        "reconstruction_error": 1.0022998331889248
+    },
+    {
+        "row": 7466,
+        "reconstruction_error": 1.148493697203194
+    },
+    {
+        "row": 7474,
+        "reconstruction_error": 1.0677077216011819
+    },
+    {
+        "row": 7477,
+        "reconstruction_error": 1.1133159042563976
+    },
+    {
+        "row": 7485,
+        "reconstruction_error": 1.0705237384699953
+    },
+    {
+        "row": 7490,
+        "reconstruction_error": 5.307047992951123
+    },
+    {
+        "row": 7502,
+        "reconstruction_error": 0.9899200741112647
+    },
+    {
+        "row": 7509,
+        "reconstruction_error": 3.3779995429134204
+    },
+    {
+        "row": 7520,
+        "reconstruction_error": 1.0657544020625975
+    },
+    {
+        "row": 7527,
+        "reconstruction_error": 2.0966568801644523
+    },
+    {
+        "row": 7528,
+        "reconstruction_error": 6.802383857318855
+    },
+    {
+        "row": 7537,
+        "reconstruction_error": 1.1582022704791202
+    },
+    {
+        "row": 7541,
+        "reconstruction_error": 1.1927701938428594
+    },
+    {
+        "row": 7542,
+        "reconstruction_error": 0.877478625123009
+    },
+    {
+        "row": 7549,
+        "reconstruction_error": 6.8503501481625655
+    },
+    {
+        "row": 7552,
+        "reconstruction_error": 5.935856644737293
+    },
+    {
+        "row": 7556,
+        "reconstruction_error": 1.5480776135254808
+    },
+    {
+        "row": 7564,
+        "reconstruction_error": 1.2511917487366906
+    },
+    {
+        "row": 7569,
+        "reconstruction_error": 1.4959691625806528
+    },
+    {
+        "row": 7573,
+        "reconstruction_error": 0.8785879069845269
+    },
+    {
+        "row": 7587,
+        "reconstruction_error": 1.0017432352867124
+    },
+    {
+        "row": 7605,
+        "reconstruction_error": 3.544373366569158
+    },
+    {
+        "row": 7607,
+        "reconstruction_error": 0.8886613929107899
+    },
+    {
+        "row": 7627,
+        "reconstruction_error": 0.9116018296190259
+    },
+    {
+        "row": 7631,
+        "reconstruction_error": 15.262124970066413
+    },
+    {
+        "row": 7632,
+        "reconstruction_error": 1.2957212819459372
+    },
+    {
+        "row": 7634,
+        "reconstruction_error": 1.2795249652723457
+    },
+    {
+        "row": 7636,
+        "reconstruction_error": 12.971207076735679
+    },
+    {
+        "row": 7644,
+        "reconstruction_error": 1.114377620246492
+    },
+    {
+        "row": 7647,
+        "reconstruction_error": 1.319388570672273
+    },
+    {
+        "row": 7657,
+        "reconstruction_error": 1.409184878929125
+    },
+    {
+        "row": 7659,
+        "reconstruction_error": 2.1822877672511
+    },
+    {
+        "row": 7660,
+        "reconstruction_error": 4.060026230437373
+    },
+    {
+        "row": 7669,
+        "reconstruction_error": 1.8061196019005292
+    },
+    {
+        "row": 7670,
+        "reconstruction_error": 1.1746778300822087
+    },
+    {
+        "row": 7672,
+        "reconstruction_error": 0.8719118284593538
+    },
+    {
+        "row": 7691,
+        "reconstruction_error": 0.8988123363834846
+    },
+    {
+        "row": 7702,
+        "reconstruction_error": 4.15014688678944
+    },
+    {
+        "row": 7703,
+        "reconstruction_error": 1.1040663088068572
+    },
+    {
+        "row": 7717,
+        "reconstruction_error": 1.4465678594399565
+    },
+    {
+        "row": 7718,
+        "reconstruction_error": 1.1098980275795147
+    },
+    {
+        "row": 7736,
+        "reconstruction_error": 1.5598528968416447
+    },
+    {
+        "row": 7756,
+        "reconstruction_error": 0.8741519259159898
+    },
+    {
+        "row": 7760,
+        "reconstruction_error": 2.1904569885447933
+    },
+    {
+        "row": 7764,
+        "reconstruction_error": 1.8011152386855045
+    },
+    {
+        "row": 7767,
+        "reconstruction_error": 1.2144721824201659
+    },
+    {
+        "row": 7777,
+        "reconstruction_error": 3.1933095874605155
+    },
+    {
+        "row": 7780,
+        "reconstruction_error": 1.482567582925921
+    },
+    {
+        "row": 7787,
+        "reconstruction_error": 1.0916525758318967
+    },
+    {
+        "row": 7789,
+        "reconstruction_error": 1.3487379253858247
+    },
+    {
+        "row": 7791,
+        "reconstruction_error": 1.1655488472760078
+    },
+    {
+        "row": 7792,
+        "reconstruction_error": 1.5396892357436904
+    },
+    {
+        "row": 7795,
+        "reconstruction_error": 2.0702890689023303
+    },
+    {
+        "row": 7799,
+        "reconstruction_error": 1.125611719736584
+    },
+    {
+        "row": 7801,
+        "reconstruction_error": 1.374105493719728
+    },
+    {
+        "row": 7808,
+        "reconstruction_error": 1.1799495134805762
+    },
+    {
+        "row": 7812,
+        "reconstruction_error": 0.9092037808462454
+    },
+    {
+        "row": 7822,
+        "reconstruction_error": 1.0871071227761009
+    },
+    {
+        "row": 7843,
+        "reconstruction_error": 1.6210453024343432
+    },
+    {
+        "row": 7853,
+        "reconstruction_error": 1.4587712091227458
+    },
+    {
+        "row": 7874,
+        "reconstruction_error": 16.61307884846258
+    },
+    {
+        "row": 7881,
+        "reconstruction_error": 2.0431810245071325
+    },
+    {
+        "row": 7892,
+        "reconstruction_error": 1.7527686995124403
+    },
+    {
+        "row": 7896,
+        "reconstruction_error": 1.0505409831250467
+    },
+    {
+        "row": 7907,
+        "reconstruction_error": 6.397557070405035
+    },
+    {
+        "row": 7929,
+        "reconstruction_error": 7.648934453878406
+    },
+    {
+        "row": 7938,
+        "reconstruction_error": 1.9803811566485763
+    },
+    {
+        "row": 7943,
+        "reconstruction_error": 1.1649744040187098
+    },
+    {
+        "row": 7951,
+        "reconstruction_error": 1.0682284613321984
+    },
+    {
+        "row": 7971,
+        "reconstruction_error": 2.448033548992802
+    },
+    {
+        "row": 7977,
+        "reconstruction_error": 1.263219542946187
+    },
+    {
+        "row": 7993,
+        "reconstruction_error": 1.178179462701519
+    },
+    {
+        "row": 7999,
+        "reconstruction_error": 2.6438268599310923
+    },
+    {
+        "row": 8013,
+        "reconstruction_error": 1.0841921310333804
+    },
+    {
+        "row": 8015,
+        "reconstruction_error": 12.811827782242913
+    },
+    {
+        "row": 8018,
+        "reconstruction_error": 1.2527201924411608
+    },
+    {
+        "row": 8027,
+        "reconstruction_error": 1.6193660005485027
+    },
+    {
+        "row": 8039,
+        "reconstruction_error": 1.0954066561356046
+    },
+    {
+        "row": 8045,
+        "reconstruction_error": 1.2797075293654463
+    },
+    {
+        "row": 8063,
+        "reconstruction_error": 1.0068301491160767
+    },
+    {
+        "row": 8068,
+        "reconstruction_error": 6.872104843211718
+    },
+    {
+        "row": 8070,
+        "reconstruction_error": 1.7164632304175327
+    },
+    {
+        "row": 8096,
+        "reconstruction_error": 3.1752262423259725
+    },
+    {
+        "row": 8109,
+        "reconstruction_error": 1.4507879276059052
+    },
+    {
+        "row": 8116,
+        "reconstruction_error": 0.9608522806284925
+    },
+    {
+        "row": 8127,
+        "reconstruction_error": 1.5878552894385694
+    },
+    {
+        "row": 8132,
+        "reconstruction_error": 1.3103278630623807
+    },
+    {
+        "row": 8134,
+        "reconstruction_error": 1.6676746285540995
+    },
+    {
+        "row": 8145,
+        "reconstruction_error": 1.2497536768819604
+    },
+    {
+        "row": 8159,
+        "reconstruction_error": 3.11540826821557
+    },
+    {
+        "row": 8163,
+        "reconstruction_error": 1.939056466715332
+    },
+    {
+        "row": 8171,
+        "reconstruction_error": 0.9554464136936516
+    },
+    {
+        "row": 8179,
+        "reconstruction_error": 1.0538450028645971
+    },
+    {
+        "row": 8205,
+        "reconstruction_error": 1.013693824137941
+    },
+    {
+        "row": 8228,
+        "reconstruction_error": 1.5350844844097056
+    },
+    {
+        "row": 8252,
+        "reconstruction_error": 1.2264774099221976
+    },
+    {
+        "row": 8264,
+        "reconstruction_error": 4.28699503935868
+    },
+    {
+        "row": 8266,
+        "reconstruction_error": 1.7331560649697195
+    },
+    {
+        "row": 8268,
+        "reconstruction_error": 1.2731103002809683
+    },
+    {
+        "row": 8281,
+        "reconstruction_error": 1.3245611683416236
+    },
+    {
+        "row": 8284,
+        "reconstruction_error": 1.042192870233449
+    },
+    {
+        "row": 8291,
+        "reconstruction_error": 0.8789244125281896
+    },
+    {
+        "row": 8299,
+        "reconstruction_error": 3.2837061903501295
+    },
+    {
+        "row": 8301,
+        "reconstruction_error": 1.131638294046982
+    },
+    {
+        "row": 8312,
+        "reconstruction_error": 0.8860231103611358
+    },
+    {
+        "row": 8313,
+        "reconstruction_error": 14.951670144181413
+    },
+    {
+        "row": 8330,
+        "reconstruction_error": 1.3496972924676762
+    },
+    {
+        "row": 8357,
+        "reconstruction_error": 0.9123585418087163
+    },
+    {
+        "row": 8363,
+        "reconstruction_error": 10.107186061607058
+    },
+    {
+        "row": 8386,
+        "reconstruction_error": 1.150879510916634
+    },
+    {
+        "row": 8388,
+        "reconstruction_error": 2.037753138069185
+    },
+    {
+        "row": 8410,
+        "reconstruction_error": 1.685683262517891
+    },
+    {
+        "row": 8414,
+        "reconstruction_error": 0.8625231373944691
+    },
+    {
+        "row": 8418,
+        "reconstruction_error": 0.898918390034115
+    },
+    {
+        "row": 8428,
+        "reconstruction_error": 1.090059923965117
+    },
+    {
+        "row": 8436,
+        "reconstruction_error": 1.153451568236125
+    },
+    {
+        "row": 8438,
+        "reconstruction_error": 4.368055124800438
+    },
+    {
+        "row": 8449,
+        "reconstruction_error": 1.643775642923047
+    },
+    {
+        "row": 8453,
+        "reconstruction_error": 1.1035470412525665
+    },
+    {
+        "row": 8464,
+        "reconstruction_error": 1.6128715642491769
+    },
+    {
+        "row": 8466,
+        "reconstruction_error": 1.0146755888977
+    },
+    {
+        "row": 8478,
+        "reconstruction_error": 1.005704461683896
+    },
+    {
+        "row": 8487,
+        "reconstruction_error": 3.9708617465909795
+    },
+    {
+        "row": 8495,
+        "reconstruction_error": 0.9891845132496813
+    },
+    {
+        "row": 8502,
+        "reconstruction_error": 1.5696042019317453
+    },
+    {
+        "row": 8517,
+        "reconstruction_error": 1.1170355805366423
+    },
+    {
+        "row": 8526,
+        "reconstruction_error": 6.993670722328991
+    },
+    {
+        "row": 8534,
+        "reconstruction_error": 0.9844479215460319
+    },
+    {
+        "row": 8538,
+        "reconstruction_error": 0.9666484053044571
+    },
+    {
+        "row": 8539,
+        "reconstruction_error": 2.5811367436161605
+    },
+    {
+        "row": 8545,
+        "reconstruction_error": 1.2208051093919072
+    },
+    {
+        "row": 8557,
+        "reconstruction_error": 0.9099726312554653
+    },
+    {
+        "row": 8585,
+        "reconstruction_error": 13.069336977498045
+    },
+    {
+        "row": 8586,
+        "reconstruction_error": 1.0374979022914754
+    },
+    {
+        "row": 8588,
+        "reconstruction_error": 2.115151054447718
+    },
+    {
+        "row": 8600,
+        "reconstruction_error": 0.9381914780312758
+    },
+    {
+        "row": 8603,
+        "reconstruction_error": 1.1511467343216935
+    },
+    {
+        "row": 8606,
+        "reconstruction_error": 1.2745023596533291
+    },
+    {
+        "row": 8607,
+        "reconstruction_error": 20.668530164813745
+    },
+    {
+        "row": 8614,
+        "reconstruction_error": 1.9788970267218176
+    },
+    {
+        "row": 8619,
+        "reconstruction_error": 0.8635629539162135
+    },
+    {
+        "row": 8620,
+        "reconstruction_error": 1.2202911586655598
+    },
+    {
+        "row": 8621,
+        "reconstruction_error": 0.9666088643835617
+    },
+    {
+        "row": 8628,
+        "reconstruction_error": 1.9206757874601428
+    },
+    {
+        "row": 8647,
+        "reconstruction_error": 1.3997166714794866
+    },
+    {
+        "row": 8648,
+        "reconstruction_error": 1.1529307054270235
+    },
+    {
+        "row": 8666,
+        "reconstruction_error": 1.0393498758384458
+    },
+    {
+        "row": 8679,
+        "reconstruction_error": 2.1046410355601144
+    },
+    {
+        "row": 8682,
+        "reconstruction_error": 1.2633286123532088
+    },
+    {
+        "row": 8689,
+        "reconstruction_error": 0.8865993896316392
+    },
+    {
+        "row": 8711,
+        "reconstruction_error": 2.0272551736535713
+    },
+    {
+        "row": 8713,
+        "reconstruction_error": 0.8540787867201641
+    },
+    {
+        "row": 8720,
+        "reconstruction_error": 2.210253651201623
+    },
+    {
+        "row": 8726,
+        "reconstruction_error": 0.9493779388889435
+    },
+    {
+        "row": 8757,
+        "reconstruction_error": 1.4059770962659328
+    },
+    {
+        "row": 8761,
+        "reconstruction_error": 2.110316079727983
+    },
+    {
+        "row": 8768,
+        "reconstruction_error": 1.0263012779019454
+    },
+    {
+        "row": 8771,
+        "reconstruction_error": 1.416777102443094
+    },
+    {
+        "row": 8782,
+        "reconstruction_error": 2.1361273892694093
+    },
+    {
+        "row": 8789,
+        "reconstruction_error": 2.1154130961376496
+    },
+    {
+        "row": 8799,
+        "reconstruction_error": 0.9447161992123216
+    },
+    {
+        "row": 8802,
+        "reconstruction_error": 9.680624401464776
+    },
+    {
+        "row": 8817,
+        "reconstruction_error": 13.919214728822972
+    },
+    {
+        "row": 8818,
+        "reconstruction_error": 0.9058847948949339
+    },
+    {
+        "row": 8825,
+        "reconstruction_error": 0.9845410984344807
+    },
+    {
+        "row": 8829,
+        "reconstruction_error": 1.2635815819122955
+    },
+    {
+        "row": 8840,
+        "reconstruction_error": 1.0693987446393065
+    },
+    {
+        "row": 8846,
+        "reconstruction_error": 1.2022581572994395
+    },
+    {
+        "row": 8852,
+        "reconstruction_error": 0.9512217377579383
+    },
+    {
+        "row": 8872,
+        "reconstruction_error": 1.074843950366403
+    },
+    {
+        "row": 8887,
+        "reconstruction_error": 1.4400039316948525
+    },
+    {
+        "row": 8898,
+        "reconstruction_error": 1.0978836110112327
+    },
+    {
+        "row": 8916,
+        "reconstruction_error": 0.8920444327585809
+    },
+    {
+        "row": 8929,
+        "reconstruction_error": 1.2813838944521216
+    },
+    {
+        "row": 8932,
+        "reconstruction_error": 0.9523051823514153
+    },
+    {
+        "row": 8935,
+        "reconstruction_error": 0.8650297040843963
+    },
+    {
+        "row": 8950,
+        "reconstruction_error": 0.9287239523513834
+    },
+    {
+        "row": 8962,
+        "reconstruction_error": 1.3973781275366497
+    },
+    {
+        "row": 8963,
+        "reconstruction_error": 7.161961669702947
+    },
+    {
+        "row": 8966,
+        "reconstruction_error": 1.3429839562895962
+    },
+    {
+        "row": 8975,
+        "reconstruction_error": 0.9049975989057544
+    },
+    {
+        "row": 8986,
+        "reconstruction_error": 1.0974648500563324
+    },
+    {
+        "row": 9011,
+        "reconstruction_error": 1.4876945193485918
+    },
+    {
+        "row": 9015,
+        "reconstruction_error": 1.3102652813700006
+    },
+    {
+        "row": 9019,
+        "reconstruction_error": 1.152491545511157
+    },
+    {
+        "row": 9027,
+        "reconstruction_error": 0.8543790993183294
+    },
+    {
+        "row": 9038,
+        "reconstruction_error": 0.9211953765512281
+    },
+    {
+        "row": 9044,
+        "reconstruction_error": 1.3615531172672104
+    },
+    {
+        "row": 9052,
+        "reconstruction_error": 1.274847127885196
+    },
+    {
+        "row": 9058,
+        "reconstruction_error": 3.624953147872022
+    },
+    {
+        "row": 9068,
+        "reconstruction_error": 1.7674501534023874
+    },
+    {
+        "row": 9071,
+        "reconstruction_error": 7.324906132228353
+    },
+    {
+        "row": 9084,
+        "reconstruction_error": 1.1363573607520463
+    },
+    {
+        "row": 9086,
+        "reconstruction_error": 1.0152052122842004
+    },
+    {
+        "row": 9089,
+        "reconstruction_error": 1.4438573838938025
+    },
+    {
+        "row": 9111,
+        "reconstruction_error": 3.7254177971320193
+    },
+    {
+        "row": 9133,
+        "reconstruction_error": 1.2062271666947015
+    },
+    {
+        "row": 9145,
+        "reconstruction_error": 1.6867834729276125
+    },
+    {
+        "row": 9150,
+        "reconstruction_error": 0.931939425689955
+    },
+    {
+        "row": 9152,
+        "reconstruction_error": 0.8655713082205899
+    },
+    {
+        "row": 9163,
+        "reconstruction_error": 0.871684456390394
+    },
+    {
+        "row": 9185,
+        "reconstruction_error": 2.525127432485597
+    },
+    {
+        "row": 9206,
+        "reconstruction_error": 0.956574290042719
+    },
+    {
+        "row": 9226,
+        "reconstruction_error": 1.3409501162180197
+    },
+    {
+        "row": 9236,
+        "reconstruction_error": 1.0511171421855308
+    },
+    {
+        "row": 9244,
+        "reconstruction_error": 1.003659775640793
+    },
+    {
+        "row": 9250,
+        "reconstruction_error": 4.469901433931286
+    },
+    {
+        "row": 9255,
+        "reconstruction_error": 0.8749806238812755
+    },
+    {
+        "row": 9263,
+        "reconstruction_error": 1.7482708695295592
+    },
+    {
+        "row": 9280,
+        "reconstruction_error": 0.929378483796626
+    },
+    {
+        "row": 9285,
+        "reconstruction_error": 0.868482446813259
+    },
+    {
+        "row": 9294,
+        "reconstruction_error": 0.9098719557264814
+    },
+    {
+        "row": 9303,
+        "reconstruction_error": 1.2671586629167246
+    },
+    {
+        "row": 9305,
+        "reconstruction_error": 2.3680923982935322
+    },
+    {
+        "row": 9312,
+        "reconstruction_error": 0.8548341774645049
+    },
+    {
+        "row": 9313,
+        "reconstruction_error": 0.8544097902479657
+    },
+    {
+        "row": 9319,
+        "reconstruction_error": 5.330209831202752
+    },
+    {
+        "row": 9346,
+        "reconstruction_error": 0.852485834277147
+    },
+    {
+        "row": 9352,
+        "reconstruction_error": 1.4128515777127808
+    },
+    {
+        "row": 9360,
+        "reconstruction_error": 1.3528293053223275
+    },
+    {
+        "row": 9376,
+        "reconstruction_error": 1.1192334946542344
+    },
+    {
+        "row": 9379,
+        "reconstruction_error": 14.295027809662669
+    },
+    {
+        "row": 9380,
+        "reconstruction_error": 1.2813501333498842
+    },
+    {
+        "row": 9398,
+        "reconstruction_error": 1.3164082172399345
+    },
+    {
+        "row": 9400,
+        "reconstruction_error": 1.2163336806639564
+    },
+    {
+        "row": 9409,
+        "reconstruction_error": 1.0456245241847497
+    },
+    {
+        "row": 9410,
+        "reconstruction_error": 12.178508493059375
+    },
+    {
+        "row": 9415,
+        "reconstruction_error": 1.0080596196933327
+    },
+    {
+        "row": 9416,
+        "reconstruction_error": 9.478778971920885
+    },
+    {
+        "row": 9422,
+        "reconstruction_error": 1.3035899890270182
+    },
+    {
+        "row": 9426,
+        "reconstruction_error": 1.3166826079750509
+    },
+    {
+        "row": 9430,
+        "reconstruction_error": 1.1145038624022463
+    },
+    {
+        "row": 9432,
+        "reconstruction_error": 0.9895049736170116
+    },
+    {
+        "row": 9438,
+        "reconstruction_error": 1.2597433200093213
+    },
+    {
+        "row": 9479,
+        "reconstruction_error": 0.8506424093905927
+    },
+    {
+        "row": 9483,
+        "reconstruction_error": 0.930576675219801
+    },
+    {
+        "row": 9504,
+        "reconstruction_error": 1.1491278789354125
+    },
+    {
+        "row": 9506,
+        "reconstruction_error": 0.9010242860896334
+    },
+    {
+        "row": 9511,
+        "reconstruction_error": 1.152911775183168
+    },
+    {
+        "row": 9523,
+        "reconstruction_error": 0.8917523954521015
+    },
+    {
+        "row": 9527,
+        "reconstruction_error": 0.8910524768003999
+    },
+    {
+        "row": 9543,
+        "reconstruction_error": 1.502773663535995
+    },
+    {
+        "row": 9554,
+        "reconstruction_error": 3.091206825479466
+    },
+    {
+        "row": 9555,
+        "reconstruction_error": 1.7009935158122824
+    },
+    {
+        "row": 9570,
+        "reconstruction_error": 1.0542672135994102
+    },
+    {
+        "row": 9577,
+        "reconstruction_error": 0.8789824346953101
+    },
+    {
+        "row": 9586,
+        "reconstruction_error": 1.1511642600165912
+    },
+    {
+        "row": 9587,
+        "reconstruction_error": 1.5914554138105244
+    },
+    {
+        "row": 9606,
+        "reconstruction_error": 1.3199497444371113
+    },
+    {
+        "row": 9619,
+        "reconstruction_error": 1.1726093517369132
+    },
+    {
+        "row": 9621,
+        "reconstruction_error": 1.3028549441821407
+    },
+    {
+        "row": 9622,
+        "reconstruction_error": 1.0336117211543652
+    },
+    {
+        "row": 9652,
+        "reconstruction_error": 0.938957539808269
+    },
+    {
+        "row": 9666,
+        "reconstruction_error": 1.759648906114269
+    },
+    {
+        "row": 9681,
+        "reconstruction_error": 4.001436131475127
+    },
+    {
+        "row": 9687,
+        "reconstruction_error": 2.757388423141173
+    },
+    {
+        "row": 9694,
+        "reconstruction_error": 0.9234241053909676
+    },
+    {
+        "row": 9706,
+        "reconstruction_error": 1.0465928458049125
+    },
+    {
+        "row": 9712,
+        "reconstruction_error": 1.9261476124651251
+    },
+    {
+        "row": 9719,
+        "reconstruction_error": 1.4530180266824306
+    },
+    {
+        "row": 9721,
+        "reconstruction_error": 0.871486344697523
+    },
+    {
+        "row": 9722,
+        "reconstruction_error": 1.175472713593672
+    },
+    {
+        "row": 9726,
+        "reconstruction_error": 0.9783809447259948
+    },
+    {
+        "row": 9741,
+        "reconstruction_error": 1.2282459744806447
+    },
+    {
+        "row": 9747,
+        "reconstruction_error": 0.9404930480366172
+    },
+    {
+        "row": 9750,
+        "reconstruction_error": 1.1557690587356186
+    },
+    {
+        "row": 9755,
+        "reconstruction_error": 0.892287257817556
+    },
+    {
+        "row": 9766,
+        "reconstruction_error": 5.668897073200964
+    },
+    {
+        "row": 9771,
+        "reconstruction_error": 1.5105433485322175
+    },
+    {
+        "row": 9783,
+        "reconstruction_error": 1.757975139422266
+    },
+    {
+        "row": 9801,
+        "reconstruction_error": 2.034977680044927
+    },
+    {
+        "row": 9806,
+        "reconstruction_error": 0.8620885686783201
+    },
+    {
+        "row": 9808,
+        "reconstruction_error": 1.3832694830837433
+    },
+    {
+        "row": 9846,
+        "reconstruction_error": 1.2445756369039964
+    },
+    {
+        "row": 9865,
+        "reconstruction_error": 2.7869533145699794
+    },
+    {
+        "row": 9876,
+        "reconstruction_error": 1.304878071291929
+    },
+    {
+        "row": 9883,
+        "reconstruction_error": 1.4207400004923736
+    },
+    {
+        "row": 9906,
+        "reconstruction_error": 3.897390935007815
+    },
+    {
+        "row": 9910,
+        "reconstruction_error": 5.027634485733771
+    },
+    {
+        "row": 9922,
+        "reconstruction_error": 1.3778295436204395
+    },
+    {
+        "row": 9925,
+        "reconstruction_error": 1.1840848061686624
+    },
+    {
+        "row": 9930,
+        "reconstruction_error": 2.9150448428675073
+    },
+    {
+        "row": 9932,
+        "reconstruction_error": 1.799998994024521
+    },
+    {
+        "row": 9934,
+        "reconstruction_error": 2.9599102033079006
+    },
+    {
+        "row": 9937,
+        "reconstruction_error": 1.4857931673719529
+    },
+    {
+        "row": 9940,
+        "reconstruction_error": 1.0939976907915232
+    },
+    {
+        "row": 9953,
+        "reconstruction_error": 25.853581368728808
+    },
+    {
+        "row": 9957,
+        "reconstruction_error": 5.059509059431959
+    },
+    {
+        "row": 9959,
+        "reconstruction_error": 2.315259662088661
+    },
+    {
+        "row": 9979,
+        "reconstruction_error": 0.9885856526375177
+    },
+    {
+        "row": 9984,
+        "reconstruction_error": 0.9416787441438713
+    },
+    {
+        "row": 9992,
+        "reconstruction_error": 0.955595436301551
+    }
+]
