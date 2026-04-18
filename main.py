@@ -18,6 +18,8 @@ from models.acc_autoencoder import Autoencoder
 from utils.preprocess import preprocess_data
 import os
 import json
+import xgboost as xgb
+import shap
 # import msno
 
 quality_report_items= {}
@@ -126,6 +128,24 @@ def get_reconstruction_errors(model, X):
         reconstructed = model(X)
         errors = torch.mean((X - reconstructed) ** 2, dim=1).numpy()
     return errors
+def shap_column_contributions(original_df, errors):
+    print("\nTraining model to explain reconstruction errors with SHAP...")
+    X = original_df.copy()
+    y = errors
+
+    model = xgb.XGBRegressor()
+    model.fit(X, y)
+
+    explainer = shap.Explainer(model)
+    shap_values = explainer(X)
+
+    # Summary plot
+    shap.summary_plot(shap_values, X, plot_type="bar", show=False)
+    plt.title("Feature contribution to reconstruction error")
+    plt.tight_layout()
+    plt.show()
+
+    return shap_values
 
 # ===== Plot Errors =====
 def plot_errors(errors, threshold=None):
@@ -146,7 +166,7 @@ def data_accuracy_check(df):
     This is a placeholder function and should be implemented based on specific requirements.
     """
     accuracy_report = {}
-    X, index, scaler = preprocess_data(df)
+    X, index, scaler, original_df = preprocess_data(df)
     model = Autoencoder(input_dim=X.shape[1])
     train_autoencoder(model, X)
 
@@ -159,8 +179,11 @@ def data_accuracy_check(df):
     inacc_data= pd.DataFrame({'Index': index, 'Reconstruction_Error': errors, 'Inaccurate': errors > threshold})
     inacc_data_val= inacc_data[inacc_data['Inaccurate'] == True]
     plot_errors(errors, threshold)
+    shap_values = shap_column_contributions(original_df, errors)
     accuracy_report['inaccurate_rows'] = inacc_data_val.to_dict(orient='records')
     return accuracy_report
+
+
 
 df= pd.read_csv("data/raw/synthetic_data_for_data_quality.csv")
 completenes_reslut= calculate_data_quality(df)

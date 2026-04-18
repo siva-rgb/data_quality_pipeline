@@ -10,4 +10,4 @@ def preprocess_data(df):
     df = df.select_dtypes(include=np.number).dropna()
     scaler = StandardScaler()
     X_scaled = scaler.fit_transform(df)
-    return torch.tensor(X_scaled, dtype=torch.float32), df.index, scaler
+    return torch.tensor(X_scaled, dtype=torch.float32), df.index, scaler, df
